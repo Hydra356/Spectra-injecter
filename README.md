@@ -50,14 +50,6 @@ The author assumes no responsibility for any misuse of this project. You are sol
 
 ---
 
-# 📸 Interface
-
-<p align="center">
-    <img src="Images/Injector.png" alt="Injector Interface">
-</p>
-
----
-
 # 🛠️ Roadmap
 
 - [x] Process enumeration
