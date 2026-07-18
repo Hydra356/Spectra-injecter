@@ -56,8 +56,8 @@ The author assumes no responsibility for any misuse of this project. You are sol
 - [x] DLL selection
 - [x] Manual Map
 - [x] Erase PE
-- [ ] Drag & Drop DLL
-- [ ] Stealth injection
+- [x] Drag & Drop DLL
+- [x] Stealth injection
 ---
 
 # 💖 Support the Project
