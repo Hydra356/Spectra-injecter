@@ -66,6 +66,7 @@ The author assumes no responsibility for any misuse of this project. You are sol
 - [x] Erase PE
 - [x] Injection logs
 - [ ] Drag & Drop DLL
+- [ ] Stealth injection
 ---
 
 # 💖 Support the Project
