@@ -34,7 +34,7 @@ The author assumes no responsibility for any misuse of this project. You are sol
 - ⚙️ **Injection Methods**
   - ✅ Manual Map
   - ✅ Erase PE Header
-
+  - ✅ Stealth injection
 - 🚀 **Injection**
   - One-click DLL injection.
 
